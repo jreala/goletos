@@ -1,0 +1,14 @@
+{
+  "name": "goletos",
+  "version": "6.10.2",
+  "description": "Goletos Website",
+  "main": "app-client",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "keywords": [
+    "goletos"
+  ],
+  "author": "Jason Eala <jeala510@gmail.com> (http://goletos.com)",
+  "license": "CC-BY-NC-ND-4.0"
+}
