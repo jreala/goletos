@@ -3,7 +3,6 @@ import './App.css';
 
 class App extends Component {
   render() {
-      var helloWorld = 'Wecome to React';
       var complexObject = { firstName: 'Jason', lastName: 'Eala'};
     return (
       <div className="App">

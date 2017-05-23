@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
-import GoodBye from './Components/GoodBye';
 import WotApi from './Components/WotApi';
 import registerServiceWorker from './registerServiceWorker';
 import './index.css';
